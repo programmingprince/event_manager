@@ -1,0 +1,15 @@
+div.login-container {
+  width: 400px;
+  margin: 100px auto;
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  padding: 30px 20px;
+}
+div.login-container > .forgot {
+  text-align: right;
+  display: block;
+}
+div.login-container > .error-message {
+  margin: 1rem 0rem;
+  color: #dc3545;
+}

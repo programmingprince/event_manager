@@ -1,0 +1,1 @@
+Simple event management app.
